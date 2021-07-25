@@ -1,0 +1,14 @@
+body {
+  background-color: #457b9d;
+}
+.array-container {
+  display: flex;
+  justify-content: center;
+  align-items: baseline;
+}
+
+.array-bar {
+  margin: 2px;
+  display: inline-block;
+  width: 2px;
+}
